@@ -1,4 +1,4 @@
-# My Universal React Project
+# Everybody (Uber) Eats!! 🍔 🌯
 
 <p>
   <!-- iOS -->
